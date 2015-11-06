@@ -1,7 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='C:\Users\Patrik\Documents\Visual Studio 2013\Projects\BD\Bd.SiteModifierApp'
-let g:netrw_dirhist_2='C:/Users/Patrik'
-let g:netrw_dirhist_3='C:\Users\Patrik\vimfiles\bundle\omnisharp-vim\server\OmniSharp'
-let g:netrw_dirhist_4='C:/Users/Patrik/vimfiles/bundle/omnisharp-vim/server/OmniSharp'
-let g:netrw_dirhist_5='D:\code\Work\Cognit\Cognit.SaveAttachment'
